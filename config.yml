@@ -1,0 +1,9 @@
+development:
+  password: 08c8c7eff2018914881566c1063992e5
+  theme_id: "46488125519"
+  store: smkhelmets.myshopify.com
+  # proxy: http://localhost:3000
+  # ignore_files:
+  #   - "*.gif"
+  #   - "*.jpg"
+  #   - config/settings_data.json
